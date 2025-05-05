@@ -2,7 +2,7 @@
 import { onMounted, ref } from "vue";
 import { useProductStore } from "../../stores/products";
 import { useRouter } from "vue-router";
-import NewProduct from "@/components/products/NewProduct.vue";
+import NewProduct from "./NewProduct.vue";
 import type { Product } from "@/types/product";
 
 const router = useRouter();
