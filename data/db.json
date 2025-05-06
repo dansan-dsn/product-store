@@ -708,6 +708,16 @@
       "url": "http://www.bestbuy.com/site/metra-speaker-connector-for-select-volkswagen-vehicles/643628.p?id=1183160746500&skuId=643628&cmp=RMXCC",
       "image": "http://img.bbystatic.com/BestBuy_US/images/products/6436/643628_rc.jpg",
       "id": "1591"
+    },
+    {
+      "id": "b708",
+      "name": "gj",
+      "sku": 5377806,
+      "price": "900000000",
+      "image": "",
+      "type": "HardGood",
+      "description": "",
+      "deleted": 0
     }
   ]
 }
